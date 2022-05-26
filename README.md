@@ -1,1 +1,1 @@
-# COVID-19-Modeling-and-Parameter-Fitting
+# COVID-19: Modeling and Parameter Fitting
