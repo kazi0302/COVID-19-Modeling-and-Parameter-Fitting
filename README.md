@@ -3,6 +3,6 @@
 ## https://SDSU.zoom.us/j/89771650954  - for meeting
 
 ### Installation:
-Python, Matplotlib, Numpy, Scipy
+Python, Matplotlib, Numpy, Scipy, Jupyter Notebook/Lab
 
 ### SIR Simulator -> IP
