@@ -4,4 +4,6 @@
 ### Installation:
 Python, Matplotlib, Numpy, Scipy, Jupyter Notebook/Lab
 
-### SIR Simulator -> IP
+### SIR Simulator -> Done
+### SEIR Simulator -> Done
+### SEIR (High and Low) Simulator -> IP
