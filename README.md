@@ -5,6 +5,6 @@
 Python, Matplotlib, Numpy, Scipy, Jupyter Notebook/Lab, Pandas
 
 ### SIR Simulator -> Done
-### SEIR Simulator -> Done
-### SEIR (High and Low) Simulator -> One function to plot 6 regions (Done) -> Then dN/dt with regional dynamics (IP)
-### Data Cleaning (IP)
+### SEIAR Simulator -> Done
+### SEIAR (High and Low) Simulator -> One function to plot 6 regions (Done) -> Done
+### SEIAR (60 ODEs) -> Almost Done (IP)
