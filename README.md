@@ -7,4 +7,4 @@ Python, Matplotlib, Numpy, Scipy, Jupyter Notebook/Lab, Pandas
 ### SIR Simulator -> Done
 ### SEIAR Simulator -> Done
 ### SEIAR (High and Low) Simulator -> One function to plot 6 regions (Done) -> Done
-### SEIAR (60 ODEs) -> Almost Done (IP)
+### SEIAR (60 ODEs) -> Done
