@@ -4,7 +4,7 @@ Plot SEIAR model in the order of 1) Region 2) Population
 
 import matplotlib.pyplot as plt
 
-def plot(combined, t):
+def plot_model(combined, t):
 
     if len(combined) == 5:
         fig, ax = plt.subplots(figsize = (10,5))
