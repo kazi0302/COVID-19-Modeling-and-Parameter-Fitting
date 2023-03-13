@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+title: Covid-19 - Modeling and Parameter Fitting
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Hirokatsu
+    family-names: Suzuki
+repository-code: >-
+  https://github.com/kazi0302/COVID-19-Modeling-and-Parameter-Fitting
+abstract: >-
+  COVID-19 Prediction with Monte Carlo Simulation using
+  Real-Time Human Mobility Rates
+license: MIT
